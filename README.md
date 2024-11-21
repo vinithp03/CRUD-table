@@ -1,4 +1,5 @@
-DataTable React Application
+DataTable React Application 
+https://crud-table-theta.vercel.app
 
 A simple and interactive **data table** built with React. This application allows users to manage a table of data with features like **CRUD operations**, **search functionality**, **pagination**, and **editable table cells**.
 
@@ -50,10 +51,6 @@ A simple and interactive **data table** built with React. This application allow
 3. **Deleting Data**: Click the "DELETE" button next to any row to remove it from the table.
 4. **Searching**: Type in the search box to filter the table based on the name field.
 5. **Pagination**: Navigate through pages of data using the page buttons below the table.
-
-## Screenshots
-
-![Data Table Screenshot](https://crud-table-theta.vercel.app)
 
 ## Contributing
 
