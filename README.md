@@ -53,7 +53,7 @@ A simple and interactive **data table** built with React. This application allow
 
 ## Screenshots
 
-![Data Table Screenshot](https://via.placeholder.com/600x400.png?text=Data+Table+Screenshot)
+![Data Table Screenshot](https://crud-table-theta.vercel.app)
 
 ## Contributing
 
